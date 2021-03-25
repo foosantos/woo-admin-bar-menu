@@ -5,7 +5,6 @@
  * Author:          Felipe Santos
  * Author URI:      https://felipels.com
  * Text Domain:     woo-admin-bar-menu
- * Domain Path:     /languages
  * Version:         0.1.0
  *
  * @package         Admin_Bar_Menu_for_WooCommerce
@@ -121,6 +120,12 @@ function wooabm_admin_bar_items ( WP_Admin_Bar $admin_bar ) {
             'main' => [
                 'name' => 'Status',
                 'link' => 'admin.php?page=wc-status',
+            ],
+        ],
+        'extensions' => [
+            'main' => [
+                'name' => 'Extensions',
+                'link' => 'admin.php?page=wc-addons',
             ],
         ],
     ];
