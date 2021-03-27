@@ -1,4 +1,4 @@
-=== WP Presets ===
+=== Admin Bar Menu for WooCommerce ===
 Contributors: felipeloureirosantos
 Tags: woocommerce, admin bar, menu
 Requires at least: 5.0
