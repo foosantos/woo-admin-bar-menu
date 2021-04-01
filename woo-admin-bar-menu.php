@@ -5,7 +5,7 @@
  * Author:          Felipe Santos
  * Author URI:      https://felipels.com
  * Text Domain:     woo-admin-bar-menu
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Admin_Bar_Menu_for_WooCommerce
  */
